@@ -11,9 +11,9 @@ title                    : "David Garcia"
 title_separator          : "-"
 name                     : &name "David Garcia"
 description              : &description "Senior Research Scientist at DEVCOM CBC and  Caltech"
-url                      : https://jpmarken.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://david-c-garcia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jpmarken/jpmarken.github.io"
+repository               : "DG_github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "David Garcia"
-  avatar           : "Marken_photo_square.png"
+  avatar           : "portrait_DG.png"
   bio              : "Postdoc in Bioengineering, Caltech"
   location         : "Pasadena, CA, USA"
   employer         :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "jpmarken"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -182,7 +182,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Outreach:
     output: true
     permalink: /:collection/:path/
   research:
