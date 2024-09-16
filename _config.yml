@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Marken"
+title                    : "David Garcia"
 title_separator          : "-"
-name                     : &name "John Marken"
-description              : &description "Postdoc in Bioengineering, Caltech"
+name                     : &name "David Garcia"
+description              : &description "Senior Research Scientist at DEVCOM CBC and  Caltech"
 url                      : https://jpmarken.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpmarken/jpmarken.github.io"
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &jpmarken
 facebook:
   username               :
   app_id                 :
@@ -80,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Marken"
+  name             : "David Garcia"
   avatar           : "Marken_photo_square.png"
   bio              : "Postdoc in Bioengineering, Caltech"
   location         : "Pasadena, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GVHMq88AAAAJ&hl=en"
-  email            : "jmarken@caltech.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=HTLatcMAAAAJ&hl=en"
+  email            : "dgarciac@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :'https://www.linkedin.com/in/david-garcia-172602ba/'
   orcid            : # "http://orcid.org/0000-0001-9696-088X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"jpmarken"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
