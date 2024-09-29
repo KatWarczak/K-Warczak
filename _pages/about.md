@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "John Marken, PhD"
-# excerpt: "John Marken - Caltech"
+title: "David C. Garcia, PhD"
+# excerpt: "David C. Garcia - Caltech"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Resnick Sustainability Institute postdoctoral scholar at Caltech supervised by [Bruce Hay](https://haylab.caltech.edu/). My work aims to develop a rigorous foundation for translating synthetic biology advances beyond the laboratory and into application contexts, with a particular focus on sustainability applications.
+I am a Senior Research Scientist at DEVCOM CBC and the California Institute of Technology under the mentorship of Dr. Mathew Lux and [Richard Murray](https://murray.cds.caltech.edu/Main_Page), respectively, where I am applying machine learning methods to the high-throughput discovery of biological catalysts. The goal of my work is understand the fundamental building blocks of complex biological systems and their interactions as a means of developing biological tools that can function robustly, predictably, and with quantitative precision.
 
 <p align='center'>
 <img src='/images/ResearchProgram.png' width='600'>
 </p>
 
-I approach this goal from both the engineering angle, by designing architectures for robust genetic circuit performance and developing theoretical frameworks for analyzing biomolecular systems, and from the scientific angle, by studying fundamental questions about how microbial physiology impacts the behavior of genetic circuits. Please see the [Research](/research/) page for more details.
+In my work, I utilize the tools of cell-free synthetic biology to perform high-throughput characterization of cell-free biological systems with the goal of both understanding their fundamental function and improving their ability to generate novel mechanisms for biological sensing and biological production.  Please see the [Research](/research/) page for more details.
 
-I also work with the Linde Center for Science, Society, and Policy to advocate for reform in the U.S. microbial biotechnology regulatory system to better promote innovation and safety in the synthetic biology industry. Please see the [Public Policy](/policy/) page for more details.
 
-I received my PhD in Bioengineering from Caltech, under the supervision of [Richard Murray](https://murray.cds.caltech.edu/Main_Page). Before that, I received my B.S. in Applied Mathematics from the College of William and Mary, where I was a member of the 2015 and 2016 iGEM teams and supervised the 2017 team. I was a member of the iGEM Measurement Committee for the 2018 season, where I helped conduct the [iGEM Interlab Study](https://technology.igem.org/interlabs/introduction).
+I received my PhD in Energy Science and Engineering from the University of Tennesee, Knoxville and and Oak Ridge National Laboratory under the supervision of [Mitchel J Doktycz](https://www.ornl.gov/staff-profile/mitchel-j-doktycz). 
