@@ -12,6 +12,6 @@ My approach to teaching students is largely inspired by the liberal arts pedagog
 
 
 
-<h2><strong>Mentorship</strong></h2>
+<h3><strong>Mentorship</strong></h3>
 <p>I largely attributed my interest in becoming an academic to the strong mentorship I received as a student. As a result, I have always been eager to volunteer for opportunities to mentor students. Throughout my career, I have mentored three junior graduate students in my lab and formally and informally mentored seven undergraduate students, not including the dozens of students that were part of my iGEM team. As a mentor, I have always focused on understanding the needs of the students under my tutelage. One of the greatest challenges I have encountered stems from each student’s varying levels of experience, which places an emphasis on identifying which students require more hands-on direction compared to general guidance. The cornerstone of my approach has always been to make myself readily available to my students and to ensure that they know I am always available for anything from simple questions to rectifying mistakes. As someone who loves to discuss science, I nurture my students’ interest and monitor their progress by encouraging frequent casual meetings in between more formalized presentations and reports. I have found that providing feedback on a student’s ability to describe their work either through talks or written reports allows me to effectively steer a project and provides them with a more holistic view of the mechanics and purpose of their work.</p>
 
