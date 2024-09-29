@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Public Policy"
 permalink: /policy/
@@ -12,4 +12,4 @@ Despite these extensive efforts, the U.S. biotechnology regulatory system is sti
 
 In anticipation of this upcoming challenge, I worked with Mary Maxon and Richard Murray to organize a workshop on 'Pathways Towards the Safe and Effective Deployment of Engineered Microbial Technologies' in Feb 2024. This workshop, hosted by Caltech's Linde Center for Science, Society, and Policy, brought together representatives from the biotechnology industry, scientists and scholars, and federal regulatory agencies to discuss the future of engineered microbial products (particularly those intended for release into the environment) and how to properly regulate them.
 
-A policy report detailing the conclusions from this workshop is available [here](https://lindeinstitute.caltech.edu/research/lcssp/reports/emer-report).
+A policy report detailing the conclusions from this workshop is available [here](https://lindeinstitute.caltech.edu/research/lcssp/reports/emer-report). -->
