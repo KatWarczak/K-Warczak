@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-Below is a set of selected preprints and publications. Please see [my Google Scholar page](https://scholar.google.com/citations?user=GVHMq88AAAAJ&hl=en) for a full list.
+Below is a list of selected publications and preprints. For a list of my publications please see [my Google Scholar page](https://scholar.google.com/citations?user=HTLatcMAAAAJ&hl=en) for a full list.
 
 \* denotes co-first authorship, and <u>underlines</u> denote corresponding authors.
 
