@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "David Garcia"
   avatar           : "portrait_DG.png"
-  bio              : "Postdoc in Bioengineering, Caltech"
+  bio              : "Senior Rsearch Scientist in Bioengineering at Caltech"
   location         : "Pasadena, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/david-garcia-172602ba"
+  linkedin         : "/david-garcia-172602ba"
   orcid            : 
   pinterest        :
   soundcloud       :
