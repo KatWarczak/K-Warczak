@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Public Policy"
-    url: /policy/    
+  # - title: "Public Policy"
+  #   url: /policy/    
 
   - title: "Teaching"
     url: /teaching/
