@@ -6,6 +6,6 @@ excerpt: 'Cell-free systems harness the metabolic potential of diverse organisms
 pdf: '/files/pdf/papers/CFME.pdf'
 doi: 'https://doi.org/10.1016/j.mec.2021.e00162'
 citation: citation: '<b>Garcia DC</b> , Dinglasan E , Shrestha H, Abraham PE, Hettich RL, Doktycz MJ. <i>Met Eng Comms</i>, 2021.'
-image: '/images/CFME.png'
+image: '/images/CFME_depletion.png'
 ---
 
