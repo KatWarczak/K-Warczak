@@ -1,18 +1,16 @@
 ---
 title: "Genetic Circuits for Diverse Environments"
 # layout: single-portfolio
-excerpt: "<img src='/images/Physiology_Splash.png' alt=''>"
+excerpt: "<img src='/images/nanobody_sensor.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "images/Physiology_Splash.png"
+  og_image: "images/nanobody_sensor.png"
 ---
-## Characterizing genetic part behavior across physiological states
-A central goal of the field of synthetic biology is to enforce the modularity assumption for genetic parts and circuits-- the idea that measuring the performance of a circuit's constituent parts, in isolation, is sufficient to predcit the behavior of the circuit as a whole. Tremendous progress has been made in this direction over the past quarter century, but almost all of it has been restricted to performance within standardized, well-controlled laboratory environments. Whether these advances in modularity still apply in application-relevant contexts such as the rhizosphere, the gut microbiome, or a scaled-up bioreactor, is an open question.
+Using small molecule latch-based nanobodies as a platform, one of my first goals will be to develop a large language model (LLM) driven and experimental framework for the development of small molecule biosensors.
 
-I am currently conducting a project that seeks to uncover the principles by which the performance of individual genetic parts varies or does not vary across physiological states induced by different environmental conditions. The insights from this project would be a first step in developing a foundation towards formal design principles for genetic circuits intended to operate outside of laboatory conditions.
+<p align='center'>
+<img src='/images/nanobody_sensor.png' width='900'>
+</p>
 
-## Stabilizing genetic circuit performance across species
-Applications of microbial synthetic biology rely on the diverse metabolic capacities of different microbial species, but most of the advances of synthetic biology and genetic circuit design have been restricted to the model organism E. coli. Transferring the insights from these advances, let alone the circuits themselves, across host strains is a nontrivial challenge.
-
-By using a combination of host-orthogonal molecular part characterization and control-theoretic design strategies, I am developing 'genetic virtual machine' frameworks that can stabilize the performance of genetic circuits across different host strains, analogously to how virtual machines allow computers to run software built for a different operating system.
+The use of colorimetric and luminescent reporters will not only make these tools useful for point-of-need and diagnostic applications, but also enable rapid DBTL cycles to modify the protein chain quickly and effectively to an analyte of interest. This modular approach where in sequences are individually ordered and tested allows for rapid finetuning of these transformer-based models, as even modest numbers of experiments can rapidly help converge on a desired property. The open nature of the cell-free system further enables the use of new chemistries such as click reactions with non-canonical amino acids as potential latching mechanisms, to further enable the platform to rapidly pivot to novel targets and even allow for the direct incorporation of payloads for potential therapeutic applications.

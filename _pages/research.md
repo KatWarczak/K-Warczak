@@ -22,6 +22,8 @@ Cell-free synthetic biology offers tools to meet our growing need to address cha
 My future work will focus on three key approaches: computationally driven design of biosensors, machine learning-enabled materials production, and fundamental explorations of cell-free metabolism towards small molecule production.
 
 
+
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
