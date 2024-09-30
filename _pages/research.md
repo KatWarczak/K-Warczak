@@ -18,7 +18,7 @@ My current project focuses on the use protein language models to interrogate sub
 
 
 Cell-free synthetic biology offers tools to meet our growing need to address challenges spanning the gamut from medical and environmental diagnostics to the production of complex molecules. These methods reconceptualize how biological systems are engineered for applications in health, materials, and energy. Instead of making concessions between the cell’s physiological and evolutionary objectives compared to engineerable objectives, my lab will develop new strategies that expand our traditional models of biotechnology by directly testing modular components and expanding the function of cell-free systems themselves.
-My future work will focus on three key approaches: computationally driven design of biosensors, machine learning-enabled materials production, and fundamental explorations of cell-free metabolism towards small molecule production.
+My future work will focus on three key approaches: computationally driven design of biosensors, machine learning-enabled materials production, and fundamental explorations of cell-free metabolism towards small molecule production.                                                                                            
 
  
  
