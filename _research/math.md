@@ -1,18 +1,16 @@
 ---
-title: "Theory for Biomolecular Systems"
+title: "Machine Learning Enabled Materials Production"
 # layout: single-portfolio
-excerpt: "<img src='/images/Theory_Splash.png' alt=''>"
+excerpt: "<img src='/images/Future_work_2.png' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "images/Theory_Splash.png"
+  og_image: "images/Future_work_2.png"
 ---
-## Constraint-based representations of biomolecular system behavior
-Understanding the relationship between the architecture of a biomolecular reaction system and the set of possible functions that the system can exhibit has been a longstanding goal for the systems and synthetic biology communities. Progress in this field has been hampered by the fact that our existing analysis approaches quickly become intractable as the complexity of the architecture scales up beyond even the simplest of systems.
+The core capability to produce precise and complex biomolecular transformations in cell lysates allows for the construction of enzyme libraries to create large datasets enabling the use of machine learning methods to produce novel chemicals and materials. Whereas it may take months to test unique bioproduction pathways, using cell-free bioprototyping my lab will be able to rapidly generate enzymatic libraries that can be combinatorially reconstituted with even larger substrate libraries into full metabolic pathways in a fraction of the time.
 
-In an international collaboration between Fangzhou Xiao (Westlake University, China), myself, and Daniele Cappelletti (Polytechnic University of Turin, Italy), we are developing a new framework for analyzing biomolecular reaction systems that embeds the space of all possible system behaviors within tractable geometric representations. This framework naturally allows for constraint-based statements that can provably assert or deny an architecture's ability to perform a particular function. Such guarantees will be critical in the development of the next generation of predictive design frameworks for genetic circuits intended to operate under diverse and variable conditions.
+<p align='center'>
+<img src='/images/Future_work_2.png' width='900'>
+</p>
 
-## General representations for molecular switches
-One of the key insights from the inception of the current field of synthetic biology was that discrete, even binary representations of computation could fit naturally within the stochastic nature of gene regulatory networks. This insight generalizes also to the concept of molecular switches, a wide class of biomolecular systems that can encompass single molecules, ion channels, and transcriptional response modules.
-
-Jointly with Gabe Salmon and Fangzhou Xiao, we are interrogating the mathematical implications of applying such a binary logic framework to biomolecular switches, and formally determining the extent to which this discrete representation can capture the underlying dynamics of the full system.
+One of our first targets, melanin, a natural biopolymer known for its unique ability to absorb a wide range of radiations is a versatile material for coatings, absorbents, and even as a building material. However, the mechanisms by which melanins are synthesized are often environmentally unfriendly, expensive chemical synthesis, or inefficient due to cellular toxicity. Beyond simply producing large amounts of melanin, my goal for this work is two-fold. First, explore the use of substrates like noncanonical amino acids and multipeptides as sources for novel melanins with improved properties like heat resistance, magnetism, and color variations; and second, to fuse experimental activity data with ligand docking, and physicochemical properties of proteins and ligands with various machine learning models into accurate predictions of substrate scope.
