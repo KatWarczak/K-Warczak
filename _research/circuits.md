@@ -1,5 +1,5 @@
 ---
-title: "Genetic Circuits for Diverse Environments"
+title: "Enabling Robust Biological Sensing of Small Molecules"
 # layout: single-portfolio
 excerpt: "<img src='/images/nanobody_sensor.png' alt=''>"
 collection: research
