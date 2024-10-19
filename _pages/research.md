@@ -16,7 +16,7 @@ My lab will focus on developing new strategies that expand our traditional model
 <img src='/images/Current_work_melanin.png' width='900'>
 </p>
 
-My current project focuses on the use protein language models to interrogate substrate specificity and promiscuity of novel biocatalysts using the melanin as a model system towards large-scale production of biological polymers.
+My current project focuses on the use protein language models to interrogate substrate specificity and promiscuity of novel biocatalysts using melanin as a model system towards large-scale production of biological polymers.
 
 
 My future work will focus on three key projects to take a holistic approach to generating the tools and fundemental knowledge to develop cell-free systems as scalable biomanufacturing platforms and research tools: computationally driven design of biosensors, machine learning-enabled materials production, and fundamental explorations of cell-free metabolism towards small molecule production. 
