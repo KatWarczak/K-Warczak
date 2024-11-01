@@ -10,13 +10,13 @@ Engineerable biological systems have the potential to be some of our greatest to
 
 The open nature of cell-free systems enables this work through a modular approach to biological transformations that allows for distinct biological components to be characterized rapidly and with precise control of the chemical environment. These methods reconceptualize how biological systems are engineered for applications in health, materials, and energy. Instead of making concessions between the cell’s physiological and evolutionary objectives compared to engineerable objectives, we are able to rapidly test components and conditions, port them to cellular chassis, or use them directy in cell-free biomanufacuring platforms. 
 
-My lab will focus on developing new strategies that expand our traditional models of biomanufacturing by taking a data-driven and multiplexed approach to elucidate fundamental principles that allow for scalable cell-free synthetic biology.
+<b>My lab will focus on developing new strategies that expand our traditional models of biomanufacturing sensors, materials, and molecules by taking a data-driven and multiplexed approach to elucidate the fundamental principles of scalable cell-free synthetic biology.<b>
 
 <p align='center'>
 <img src='/images/Current_work_melanin.png' width='900'>
 </p>
 
-My current project focuses on the use protein language models to interrogate substrate specificity and promiscuity of novel biocatalysts using melanin as a model system towards large-scale production of biological polymers.
+My current project focuses on the use of protein language models to interrogate the substrate specificity and promiscuity of novel biocatalysts, using melanin as a model system for the large-scale production of biological polymers. This approach not only takes advantage of powerful pretrained protein language models but also makes effective use of high-throughput empirical verification to corroborate and fine-tune computational workflows.  
 
 
 My future work will focus on three key projects to take a holistic approach to generating the tools and fundemental knowledge to develop cell-free systems as scalable biomanufacturing platforms and research tools: computationally driven design of biosensors, machine learning-enabled materials production, and fundamental explorations of cell-free metabolism towards small molecule production. 

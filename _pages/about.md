@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;">
-I am a Senior Research Scientist at DEVCOM CBC and the California Institute of Technology under the mentorship of Matthew Lux and <a href="https://murray.cds.caltech.edu/Main_Page">Richard Murray</a>, respectively, where I am applying machine learning methods to the high-throughput discovery of biological catalysts. The goal of my work is to develop new strategies that expand our traditional models of biomanufacturing sensors, materials, and molecules by taking a data-driven and multiplexed approach to elucidate the fundamental principles of scalable cell-free biomanufacturing.
+I am a Senior Research Scientist at DEVCOM CBC and the California Institute of Technology under the mentorship of Matthew Lux and <a href="https://murray.cds.caltech.edu/Main_Page">Richard Murray</a>, respectively, where I am applying machine learning methods for high-throughput discovery of biological catalysts. The goal of my work is to develop new strategies that expand our traditional models of biomanufacturing sensors, materials, and molecules by taking a data-driven and multiplexed approach to elucidate the fundamental principles of scalable cell-free biomanufacturing.
 </p>
 
 <p align='center'>
