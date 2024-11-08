@@ -6,5 +6,5 @@ excerpt: '<p style="text-align: justify;">Porphyrins are molecules composed of o
 pdf: '/files/pdf/papers/PPIX.pdf'
 doi: 'https://doi.org/10.1101/2023.12.28.573540'
 citation: '<b>Garcia DC</b> , Davies JP  , Rhea K, Lee MF, Lux MM. <i>bioRxiv</i>, 2023.'
-image: '/images/PPIX_Pathway.png' 
+image: '/images/PPIX_extract_consolidation.png' 
 ---
