@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Garcia"
-  avatar           : "portrait_DG.png"
-  bio              : "Senior Research Scientist in Bioengineering at Caltech"
-  location         : "Pasadena, CA, USA"
+  name             : "Dr. Katie A. Warczak"
+  avatar           : "Zoom Headshot.JPG"
+  bio              : "Visiting Lecturer in Literature, University of Pittsburgh"
+  location         : "Pittsburgh, PA, USA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=HTLatcMAAAAJ&hl=en"
-  email            : "dgarciac@caltech.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : 
+  email            : "kaw526@pitt.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "/david-garcia-172602ba"
   orcid            : 
